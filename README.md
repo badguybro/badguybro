@@ -1,10 +1,12 @@
 # 👋 Hi, I’m @badguybro
 
+---
+
 # Full Stack Developer
 
 ---
 
-Passionate Full Stack Developer with 7 years of experience in designing, developing, and deploying scalable web applications. Proficient in a diverse set of technologies and committed to delivering high-quality software solutions.
+Experienced Full Stack Developer with 7 years of expertise in designing, developing, and deploying scalable web applications. Skilled in a wide range of technologies and dedicated to delivering high-quality, user-focused solutions.
 
 ## 🚀 Skills
 
@@ -15,24 +17,24 @@ Passionate Full Stack Developer with 7 years of experience in designing, develop
 
 ## 💼 Experience
 
-- **Senior Full Stack Engineer at Xedrum (Jan 2023 – Jul 2024)**
-  - Enhanced SEO with Next.js, boosting organic traffic by 40%.
-  - Scaled backend to support over 100,000 concurrent users.
-  - Implemented real-time features using Socket.io and RabbitMQ.
+- **Senior Full Stack Engineer (2023 – 2024)**
+  - Boosted organic traffic by 40% through enhanced SEO with Next.js.
+  - Scaled backend systems to support over 100,000 concurrent users.
+  - Implemented real-time features, reducing cart abandonment by 25%.
 
-- **Full Stack Developer at Go-ERP (Dec 2019 – Nov 2022)**
-  - Developed cross-platform applications with React and React Native.
-  - Integrated multiple social media APIs for comprehensive analytics.
-  - Streamlined CI/CD pipelines using Docker and CircleCI.
+- **Full Stack Developer (2019 – 2022)**
+  - Built cross-platform apps with React and React Native, improving user retention by 35%.
+  - Integrated social media APIs for comprehensive analytics.
+  - Streamlined deployment processes with Docker and CircleCI.
 
-- **Junior Full Stack Developer at Softserve (Sep 2017 – Oct 2019)**
-  - Built responsive single-page applications with React.
+- **Junior Full Stack Developer (2017 – 2019)**
+  - Developed responsive single-page applications with React.
   - Focused on performance optimization and security enhancements.
 
 ## 🎓 Education
 
 - **Bachelor’s Degree in Computer Science**  
-  Sofia University (Oct 2013 – Sep 2017)
+  Sofia University (2013 – 2017)
 
 
 <!---
